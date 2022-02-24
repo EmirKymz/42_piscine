@@ -1,0 +1,6 @@
+redentials cache: API:122278B4-ABEE-49DD-8C94-7056297EA9BC
+        Principal: ekaymaz@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 09:52:10 2021  Nov 22 19:52:10 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Nov 22 09:52:12 2021  Nov 22 19:52:10 2021  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
